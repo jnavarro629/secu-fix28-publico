@@ -1,0 +1,35 @@
+# Compilación, dependencias y resultados de análisis
+target/
+build/
+out/
+node_modules/
+.m2/
+.scannerwork/
+.sensor-cache/
+.codeql/
+*.class
+*.jar
+*.sarif
+
+# Entorno, credenciales y editor
+.env
+.env.*
+.secrets/
+*.pem
+*.key
+*.p12
+*.jks
+.idea/
+.vscode/
+*.iml
+
+# Evidencias locales, temporales y sistema operativo
+.evidencias/
+tmp/
+temp/
+*.log
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
