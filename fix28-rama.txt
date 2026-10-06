@@ -1,1 +1,1 @@
-FIX28|rama=develop|version=base
+FIX28|rama=prueba-fix28|version=alternativa
